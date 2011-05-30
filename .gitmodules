@@ -1,0 +1,9 @@
+[submodule "address_eval"]
+	path = address_eval
+	url = git@github.com:chiku/RubyConfIndia2011-address_eval.git
+[submodule "method_missing"]
+	path = method_missing
+	url = git@github.com:chiku/RubyConfIndia2011-method_missing.git
+[submodule "crazy_controller"]
+	path = crazy_controller
+	url = git@github.com:chiku/RubyConfIndia2011-crazy_controller.git
