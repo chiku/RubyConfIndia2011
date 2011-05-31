@@ -7,3 +7,6 @@
 [submodule "crazy_controller"]
 	path = crazy_controller
 	url = git@github.com:chiku/RubyConfIndia2011-crazy_controller.git
+[submodule "RubyConfIndia2011-obtrusive_javascript"]
+	path = RubyConfIndia2011-obtrusive_javascript
+	url = git@github.com:chiku/RubyConfIndia2011-obtrusive_javascript.git

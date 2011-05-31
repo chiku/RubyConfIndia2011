@@ -14,6 +14,11 @@ This code shows one of the ways to move logic from a controller into a model.
 This runs on ruby 1.9.2 and 1.8.7
 This code shows abuse of method_missing and how to move away from it.
 
+4. obstrusive_javascript
+This is a small sinatra application to illustrate moving away from obtrusive javascript.
+Use ruby server.rb
+Visit http://localhost:4567/index.html and click on the link
+
 To pull this code run the following
 
 git clone git@github.com:chiku/RubyConfIndia2011.git
